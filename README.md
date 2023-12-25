@@ -1,6 +1,6 @@
 ## Live Demo
 
-Check out the live demo of the Countdown project [here](https://count-down-beige.vercel.app/).
+Check out the live demo of the Countdown project [CountDown](https://count-down-beige.vercel.app/).
 
 
 # Countdown Project

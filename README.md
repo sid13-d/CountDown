@@ -1,3 +1,8 @@
+## Live Demo
+
+Check out the live demo of the Countdown project [here](https://count-down-beige.vercel.app/).
+
+
 # Countdown Project
 
 Welcome to Countdown, a small side project where you can experience the thrill of pressing a button within a specified time limit! This project was created to explore the concepts of refs and portals in React.
